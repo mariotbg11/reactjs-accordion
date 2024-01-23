@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./react-accordion-screenshot.png)
+![](./public/react-accordion-screenshot.png)
 
 ### Links
 
