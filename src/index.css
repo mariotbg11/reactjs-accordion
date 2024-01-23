@@ -8,7 +8,6 @@
 
 .container {
   display: flex;
-  flex-direction: column;
   position: relative;
   align-items: center;
   justify-content: center;
@@ -74,6 +73,8 @@
 .footer {
   position: absolute;
   bottom: 0;
+  text-align: center;
+  padding: 0 25px;
   height: 40px;
 }
 
