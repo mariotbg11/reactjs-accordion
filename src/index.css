@@ -8,6 +8,8 @@
 
 .container {
   display: flex;
+  flex-direction: column;
+  position: relative;
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -67,6 +69,16 @@
   color: hsla(293, 16%, 49%, 0.759);
   margin-bottom: 18px;
   line-height: 1.5;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+}
+
+.footer a {
+  text-decoration: none;
 }
 
 /* MOBILE */
